@@ -1,3 +1,4 @@
+# This is first file - 
 #Below command is used to create database -
 create database vedantdb;
 
